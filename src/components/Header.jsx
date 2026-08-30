@@ -9,9 +9,8 @@ export default function Header() {
           aria-hidden="true"
         >
           <img
-            src="/logo.png"
-            alt="Property Post Maker Logo"
-            className="h-full w-full object-contain"
+            src={`${import.meta.env.BASE_URL}logo.png`}
+            alt="Property Post Maker"
           />
         </div>
 
