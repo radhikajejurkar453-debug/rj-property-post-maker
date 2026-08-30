@@ -5,12 +5,12 @@ export default function Header() {
 
         {/* Company Logo */}
         <div
-          className="flex h-11 w-11 flex-shrink-0 items-center justify-center rounded-full border border-brass/60 bg-forest shadow-soft overflow-hidden"
-          aria-hidden="true"
+          className="flex h-11 w-11 flex-shrink-0 items-center justify-center overflow-hidden rounded-full border border-brass/60 bg-forest shadow-soft"
         >
           <img
             src={`${import.meta.env.BASE_URL}logo.png`}
-            alt="Property Post Maker"
+            alt="R&J Property Post Maker Logo"
+            className="h-full w-full object-cover"
           />
         </div>
 
