@@ -1,11 +1,3 @@
-Yes. **I strongly recommend adding a short “Why I Built This” and “How I Built It” section** to your GitHub README.
-
-Since this is an internship assignment and React/Vite were relatively new to you, it actually helps demonstrate **learning ability + practical use of Claude Code**, rather than just showing the final application.
-
-You can structure your README like this:
-
----
-
 # 🏠 R&J Property Post Maker
 
 A professional real-estate marketing tool that turns four simple property details into a polished, share-ready property post.
